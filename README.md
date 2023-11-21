@@ -1,5 +1,5 @@
 ![self-service-machine](https://github.com/RodrigoSCurcio/self-service-machine/assets/59969422/7fde5d61-8c04-4e93-b91a-45bad2065445)
-> Status: Em Finalizado 👌🏼
+> Status: Finalizado 👌🏼
 
 
 ### Aplicação utilizando Vue.js
